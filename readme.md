@@ -10,7 +10,7 @@ As you look over this, you'll want to make sure that anything with styles applie
 - [ ] The `<p id="first" class="text red" style="color: red">` tag.
 - [ ] Next, hit the `Go Live` button in the bottom of your VS Code to open it in the browser.
 - [ ] To open the Inspect Tool on your browser on Windows, click `CTRL`, `SHIFT` and `I`.
-- [ ] To open the Inspect Tool on your browser on MAC, click `CMD`, `SHIFT` and `I`.
+- [ ] To open the Inspect Tool on your browser on MAC, click `CMD`, `Option` and `I`.
 - [ ] Look at the default styles being applied to the elements on the `Index.html` file.
 
 ### With the Style Tags Applied
